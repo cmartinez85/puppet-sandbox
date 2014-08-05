@@ -27,7 +27,7 @@ Requirements
 
 To use Puppet Sandbox, you must have the following items installed and working:
 
-* [VirtualBox](https://www.virtualbox.org/)
+* [VirtualBox](https://www.virtualbox.org/) + Extension tools
 * [Vagrant 1.1+](http://vagrantup.com/)
 
 Puppet Sandbox has been designed for and tested with Vagrant base boxes running:
